@@ -1,2 +1,4 @@
-# terraform-class-combined
-Started Class 2
+# Plese copy paste bellow code 
+module "asg" {
+    source = "orifjon76/terraform/asg/aws "
+}
